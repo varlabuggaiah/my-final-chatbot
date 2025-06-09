@@ -1,2 +1,4 @@
 streamlit
 openai
+
+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

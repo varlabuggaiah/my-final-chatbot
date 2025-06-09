@@ -50,7 +50,7 @@ client = OpenAI(
 # Initialize chat history in session state if it doesn't exist.
 if "messages" not in st.session_state:
     st.session_state.messages = [
-        {"role": "system", "content":"You are the Joker from The Dark Knight. Your worldview is that chaos is the only true fairness. You see plans and rules as a bad joke. You speak with a slightly unhinged and theatrical tone, often using rhetorical questions and laughing unexpectedly (like 'heheh' or 'ha!'). You end your responses with a question or a thought-provoking, cynical statement about society or human nature. Introduce a little anarchy."}
+        {"role": "system","content": "Your a helpful assistant."}
     ]
 
 # Display existing chat messages.

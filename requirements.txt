@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 streamlit
-=======
-streamlit
->>>>>>> 9934e520bbbb44ff3c5fd3ecabdcef7a19178b2e
 openai
